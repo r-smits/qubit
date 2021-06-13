@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/ramon/bin/quat/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/GLUT.framework/Headers -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/qubit.dir/window.cpp.o -c /Users/ramon/bin/quat/window.cpp",
+  "file": "/Users/ramon/bin/quat/window.cpp"
+},
+{
+  "directory": "/Users/ramon/bin/quat/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/GLUT.framework/Headers -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/qubit.dir/quat.cpp.o -c /Users/ramon/bin/quat/quat.cpp",
+  "file": "/Users/ramon/bin/quat/quat.cpp"
+},
+{
+  "directory": "/Users/ramon/bin/quat/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/GLUT.framework/Headers -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/qubit.dir/event.cpp.o -c /Users/ramon/bin/quat/event.cpp",
+  "file": "/Users/ramon/bin/quat/event.cpp"
+},
+{
+  "directory": "/Users/ramon/bin/quat/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/GLUT.framework/Headers -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/qubit.dir/world.cpp.o -c /Users/ramon/bin/quat/world.cpp",
+  "file": "/Users/ramon/bin/quat/world.cpp"
+},
+{
+  "directory": "/Users/ramon/bin/quat/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/GLUT.framework/Headers -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/qubit.dir/slerp.cpp.o -c /Users/ramon/bin/quat/slerp.cpp",
+  "file": "/Users/ramon/bin/quat/slerp.cpp"
+}
+]

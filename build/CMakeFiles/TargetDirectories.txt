@@ -1,0 +1,3 @@
+/Users/ramon/bin/quat/build/CMakeFiles/rebuild_cache.dir
+/Users/ramon/bin/quat/build/CMakeFiles/edit_cache.dir
+/Users/ramon/bin/quat/build/CMakeFiles/qubit.dir
